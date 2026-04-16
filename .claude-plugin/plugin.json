@@ -1,0 +1,8 @@
+{
+  "name": "mcu-skills",
+  "description": "Skills for autonomous MCU firmware development, flashing, and testing — initially focused on STM32WL over UART bootloader",
+  "author": {
+    "name": "Andrew Yong",
+    "email": "me@ndoo.sg"
+  }
+}
